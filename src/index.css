@@ -6220,10 +6220,6 @@ table {
   z-index: auto;
 }
 
-* {
-  color: pink !important;
-}
-
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
