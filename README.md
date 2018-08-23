@@ -1,5 +1,4 @@
 # Gatsby V2 Tailwind Starter
-------
 
 ### Gatsby V2 default starter + Tailwind CSS + PostCSS + Purgecss 
 
