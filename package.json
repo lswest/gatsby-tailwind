@@ -20,7 +20,7 @@
   "scripts": {
     "build:css": "postcss src/styles/index.css -o src/index.css",
     "watch:css": "postcss src/styles/index.css -o src/index.css -w",
-    "build": "yarn run build:css && purgecss -c ./purgecss.config.js -o ./src/assets/styles && gatsby build",
+    "build": "yarn run build:css && gatsby build",
     "develop": "yarn run build:css && gatsby develop",
     "format": "prettier --write '**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
